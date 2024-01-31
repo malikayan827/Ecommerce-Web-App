@@ -16,10 +16,10 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-##Update Proxy Address:
+## Update Proxy Address:
 Update the proxy address in frontend/package.json to your network's IP address. Find the "proxy" key and replace the value with your IP address.
 
-##Usage
+## Usage
 
 **Frontend**
 To start the frontend development server, run:
@@ -29,6 +29,13 @@ npm start
 To start the backend server in development mode, run:
 cd backend
 npm run dev
+
+
+## Contributing
+Contributions are welcome! Feel free to open issues and pull requests.
+
+## License
+This project is licensed under the MIT License.
 
 
 ##Contributing
