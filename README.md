@@ -25,7 +25,7 @@ Update the proxy address in frontend/package.json to your network's IP address. 
 **To start the frontend development server, run:**
 cd frontend
 npm start 
-**Backend**
+**Backend:**
 **To start the backend server in development mode, run:**
 cd backend
 npm run dev
