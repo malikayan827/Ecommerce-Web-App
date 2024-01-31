@@ -19,7 +19,7 @@ To get started with the project, follow these steps:
  **Update Proxy Address:**
 Update the proxy address in frontend/package.json to your network's IP address. Find the "proxy" key and replace the value with your IP address.
 
-2.## Usage
+## Usage
 
 **Frontend:**
 **To start the frontend development server, run:**
